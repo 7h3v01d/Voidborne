@@ -3,6 +3,24 @@
 **Voidborne** is a fast-paced, multiplayer-inspired agar.io-style browser game set in a cosmic void.  
 Consume stardust, outmaneuver other players (and clever bots), use powerful affinity abilities, avoid deadly gravity wells, and become the largest cosmic entity in the arena.
 
+---
+
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
 Live demo (if hosted):  
 → https://yourusername.github.io/voidborne/  
 (or replace with Netlify / Vercel / GitHub Pages link once deployed)
@@ -111,16 +129,28 @@ voidborne/
 Contributions welcome — especially for multiplayer or audio!
 
 ---
-## ⚖️ License
-MIT License
 
-Feel free to fork, modify, learn from, or use parts of the code in your own projects.
+## Contribution Policy
+
+Feedback, bug reports, and suggestions are welcome.
+
+You may submit:
+
+- Issues
+- Design feedback
+- Pull requests for review
+
+However:
+
+- Contributions do not grant any license or ownership rights
+- The author retains full discretion over acceptance and future use
+- Contributors receive no rights to reuse, redistribute, or derive from this code
 
 ---
-## 🙌 Acknowledgments
 
-Inspired by classics:
-- agar.io
-- slither.io
-- Diep.io
+## License
+This project is not open-source.
+
+It is licensed under a private evaluation-only license.
+See LICENSE.txt for full terms.
 
